@@ -1,0 +1,11 @@
+# Material file for moon.obj
+
+newmtl material_02FDF718
+	Ns 43
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.2 0.2 0.2
+	Ka 0.2 0.2 0.2
+	map_Kd moon.png
+

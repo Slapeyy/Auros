@@ -1,0 +1,47 @@
+# Material file for Arwing_Star.obj
+
+newmtl texture
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd bad: C:\Users\mikes\OneDrive\Documents\Kingston University Computer Games Programming course\Term 2\Games Programming\3D using GTEC\Coursework Game\game\models\texture.bmp
+
+newmtl texture_2
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd texture2.bmp
+
+newmtl texture_3
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd texture3.bmp
+
+newmtl texture4
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd bad: C:\Users\mikes\OneDrive\Documents\Kingston University Computer Games Programming course\Term 2\Games Programming\3D using GTEC\Coursework Game\game\models\OrangeBlack texture.bmp
+
+newmtl texture5
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd texture4.bmp
+
